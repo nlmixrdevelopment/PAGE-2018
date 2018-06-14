@@ -11,15 +11,15 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 | Time | Presenter | Topics |
 | ------------- | ----------------- | ------|
 | 9:00 | **Matt Fidler** | **Vision of nlmixr**|
-|      |                 | RxODE and nlmixr introduction |
-|      |                 | RxODE lecture |
+|      |                 | **RxODE and nlmixr introduction** |
+|      |                 | **RxODE lecture** |
 |      |                 | - RxODE syntax |
 |      |                 | - RxODE solving and simulations |
 |      |                 | - Exploring data with RxODE and Shiny |
 | 9:30 | **Coffee Break**|
 | 10:00 | **Matt Fidler** | **nlmixr algorithms & functionality**|
-|       |                 | Comparison to NONMEM |
-|       |                 | Basic population PKPD modeling with nlmixr |
+|       |                 | **Comparison to NONMEM** |
+|       |                 | **Basic population PKPD modeling with nlmixr** |
 |       |                 |  - Model syntax |
 |       |                 |  - Running nlmixr models |
 |       |                 |  - Simulating from nlmixr models |
@@ -28,7 +28,7 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 |       |                      | - shinyMixR |
 |       |                      | - xpose for nlmixr |
 | 12:00 | **Lunch Break**|
-| 13:00 | **Mirjam Trame, Yuan Xiong, Justin Wilkins** |**Introduction into Hands-On case studies** |
+| 13:00 | **Mirjam Trame, Yuan Xiong, Justin Wilkins** |**Introduction into Hands-On Case Studies** |
 | 13:30 |                                              | **Hands-On**: mAB model|
 | 14:00 |                                              | **Hands-On**: PBPK model |
 | 14:30 |                                              | **Hands-On**: Neutropenia model |
