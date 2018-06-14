@@ -10,16 +10,16 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 
 | Time | Presenter | Topics |
 | ------------- | ----------------- | ------|
-| 9:00 | **Matt Fidler** | **Vision of nlmixr|
+| 9:00 | **Matt Fidler** | **Vision of nlmixr**|
 |      |                 | RxODE and nlmixr introduction |
-|      |                 | RxODE lecture**  |
+|      |                 | RxODE lecture |
 |      |                 | - RxODE syntax |
 |      |                 | - RxODE solving and simulations |
 |      |                 | - Exploring data with RxODE and Shiny |
 | 9:30 | **Coffee Break**|
-| 10:00 | **Matt Fidler** | **nlmixr algorithms & functionality|
+| 10:00 | **Matt Fidler** | **nlmixr algorithms & functionality**|
 |       |                 | Comparison to NONMEM |
-|       |                 | Basic population PKPD modeling with nlmixr** |
+|       |                 | Basic population PKPD modeling with nlmixr |
 |       |                 |  - Model syntax |
 |       |                 |  - Running nlmixr models |
 |       |                 |  - Simulating from nlmixr models |
