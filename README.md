@@ -1,4 +1,5 @@
 # PAGE-2018
+
 **nlmixr short course @ PAGE 2018**
 
 The **nlmixr team** just completed its first **full-day hands-on workshop** at PAGE 2018 on simulation (RxODE) and parameter estimation 
@@ -6,7 +7,7 @@ using the **free and open-source R-based nonlinear mixed effects modelling platf
 The course consisted of a mixture of lectures and hands-on exercises. Please find the agenda and a link to the course material below. 
 **Thank you to all participants from around the world who joined us for this exciting event!**
 
-## AGENDA
+## Agenda
 
 | Time | Presenter | Topics |
 | ------------- | ----------------- | ------|
@@ -37,7 +38,7 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 | 16:30 | **Wenping Wang** | **Outlook of additional nlmixr capabilities** |
 | 17:00 | **END** |
 
-## COURSE MATERIAL
+## Course Material
 
 1) Download and install nlmixr from [here]( https://github.com/nlmixrdevelopment/nlmixr/releases/tag/v9.0.1-0 ) and use one of the different nlmixr installers depending on your operating system.
 
