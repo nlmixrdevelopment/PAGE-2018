@@ -10,31 +10,31 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 
 | Time | Presenter | Topics |
 | ------------- | ----------------- | ------|
-| 9:00 | **Matt Fidler** | Vision of nlmixr|
+| 9:00 | **Matt Fidler** | **Vision of nlmixr|
 |      |                 | RxODE and nlmixr introduction |
-|      |                 | RxODE lecture  |
+|      |                 | RxODE lecture**  |
 |      |                 | - RxODE syntax |
 |      |                 | - RxODE solving and simulations |
 |      |                 | - Exploring data with RxODE and Shiny |
 | 9:30 | **Coffee Break**|
-| 10:00 | **Matt Fidler** | nlmixr algorithms & functionality|
+| 10:00 | **Matt Fidler** | **nlmixr algorithms & functionality|
 |       |                 | Comparison to NONMEM |
-|       |                 | Basic population PKPD modeling with nlmixr |
+|       |                 | Basic population PKPD modeling with nlmixr** |
 |       |                 |  - Model syntax |
 |       |                 |  - Running nlmixr models |
 |       |                 |  - Simulating from nlmixr models |
-| 11:00 | **Richard Hooijmaijers** | Population model building made easy using an interactive shiny app|
+| 11:00 | **Richard Hooijmaijers** | **Population model building made easy using an interactive shiny app**|
 |       |                      | - nlmixr workflow |
 |       |                      | - shinyMixR |
 |       |                      | - xpose for nlmixr |
 | 12:00 | **Lunch Break**|
-| 13:00 | **Mirjam Trame, Yuan Xiong, Justin Wilkins** | Introduction into Hands-On case studies |
+| 13:00 | **Mirjam Trame, Yuan Xiong, Justin Wilkins** |**Introduction into Hands-On case studies** |
 | 13:30 |                                              | **Hands-On**: mAB model|
 | 14:00 |                                              | **Hands-On**: PBPK model |
 | 14:30 |                                              | **Hands-On**: Neutropenia model |
 | 15:00 |                                              | **Hands-On**: PopPK model including covariates|
 | 15:30 |                                              | Discussion of case studies and Q&A|
-| 16:30 | **Wenping Wang** | Outlook of additional nlmixr capabilities |
+| 16:30 | **Wenping Wang** | **Outlook of additional nlmixr capabilities** |
 | 17:00 | **END** |
 
 ## COURSE MATERIAL
