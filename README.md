@@ -39,7 +39,15 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 
 ## COURSE MATERIAL
 
-- Download and install nlmixr from [here]( https://github.com/nlmixrdevelopment/nlmixr/releases/tag/v9.0.1-0 ) and use one of the different nlmixr installers depending on your operating system.
+1) Download and install nlmixr from [here]( https://github.com/nlmixrdevelopment/nlmixr/releases/tag/v9.0.1-0 ) and use one of the different nlmixr installers depending on your operating system.
+
+2) Download the course material from the following links:
+- [x] [Presentations]( https://github.com/nlmixrdevelopment/PAGE-2018/blob/master/Presentations_PAGE2018.zip )
+- [x] [Demo]( https://github.com/nlmixrdevelopment/PAGE-2018/blob/master/Demo_Theophylline_PAGE2018.zip )
+- [x] [Case Study 1]( https://github.com/nlmixrdevelopment/PAGE-2018/blob/master/Case%20Study_1_PAGE2018.zip )
+- [x] [Case Study 2]( https://github.com/nlmixrdevelopment/PAGE-2018/blob/master/Case%20Study%202_PAGE2018.zip )
+- [x] [Case Study 3]( https://github.com/nlmixrdevelopment/PAGE-2018/blob/master/Case%20Study%202_PAGE2018.zip )
+- [x] [Case Study 4]( https://github.com/nlmixrdevelopment/PAGE-2018/blob/master/Case%20Study%204_PAGE2018.zip )
 
 <br />
 
