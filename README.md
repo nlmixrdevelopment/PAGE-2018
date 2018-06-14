@@ -1,5 +1,7 @@
 # PAGE-2018
 
+<img src="https://github.com/nlmixrdevelopment/nlmixr/blob/master/vignettes/nlmixr_RxODE_shinyMixR_combo.jpg">
+
 **nlmixr short course @ PAGE 2018**
 
 The **nlmixr team** just completed its first **full-day hands-on workshop** at PAGE 2018 on simulation (RxODE) and parameter estimation 
