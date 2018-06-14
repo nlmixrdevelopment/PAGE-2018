@@ -43,8 +43,8 @@ The course consisted of a mixture of lectures and hands-on exercises. Please fin
 
 <br />
 
-Best regards,
+**Best regards,**
 
-The nlmixr team
+**The nlmixr team**
 
 (Matthew Fidler, Teun M. Post, Richard Hooijmaijers, Rik Schoemaker, Mirjam N. Trame, Justin Wilkins, Yuan Xiong and Wenping Wang)
